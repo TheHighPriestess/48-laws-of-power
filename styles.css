@@ -1,0 +1,40 @@
+html {
+       overflow-y: scroll;
+}
+
+
+body {
+	background-color: #b90504;
+	background-image: url("http://i58.tinypic.com/ll7xx.jpg");
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	background-attachment: fixed;
+	background-size: 450px 642px;
+	color: #fff;
+	font-family: 'Kameron', serif;
+	overflow: auto;
+	padding-bottom: 150px;
+
+
+
+}
+
+h1 {
+	font-size: 6em;
+	font-family: 'Russo One', sans-serif;
+	text-align: center;
+	margin-top: 50px;
+	letter-spacing: 5px;
+}
+
+h2 {
+	text-align: center;
+	line-height: 10px;
+	cursor: pointer;
+}
+
+.law {
+	width: 700px;
+	margin: 0 auto;
+	font-size: 1.25em;
+}
