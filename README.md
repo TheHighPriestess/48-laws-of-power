@@ -1,0 +1,3 @@
+# 48-laws-of-power
+
+Playing around with jQuery.....
